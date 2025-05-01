@@ -11,11 +11,9 @@ public class SwitchObservation {
             case 'A':
                 aCount++;
                response += ("Count of A  " + aCount);
-                break;
             case 'B':
                 bCount++;
                 response +=("Count of B  " + bCount);
-                break;
             case 'C':
                 cCount++;
                 response +=("Count of B  " + cCount);
